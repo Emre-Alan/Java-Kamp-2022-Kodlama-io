@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Buyuk Sayi/Buyuk Sayi.iml" filepath="$PROJECT_DIR$/Buyuk Sayi/Buyuk Sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CokBoyutluDiziler/CokBoyutluDiziler.iml" filepath="$PROJECT_DIR$/CokBoyutluDiziler/CokBoyutluDiziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diziler/Diziler.iml" filepath="$PROJECT_DIR$/Diziler/Diziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Kamp 2022.iml" filepath="$PROJECT_DIR$/.idea/Java Kamp 2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiAsalMi/SayiAsalMi.iml" filepath="$PROJECT_DIR$/SayiAsalMi/SayiAsalMi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiBulma/SayiBulma.iml" filepath="$PROJECT_DIR$/SayiBulma/SayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SesliHarfler/SesliHarfler.iml" filepath="$PROJECT_DIR$/SesliHarfler/SesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringlerleCalismak/StringlerleCalismak.iml" filepath="$PROJECT_DIR$/StringlerleCalismak/StringlerleCalismak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop/loop.iml" filepath="$PROJECT_DIR$/loop/loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchBloklari/switchBloklari.iml" filepath="$PROJECT_DIR$/switchBloklari/switchBloklari.iml" />
+    </modules>
+  </component>
+</project>
